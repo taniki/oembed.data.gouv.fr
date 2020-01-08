@@ -1,0 +1,6 @@
+[submodule "udata-gouvfr"]
+	path = udata-gouvfr
+	url = git@github.com:etalab/udata-gouvfr.git
+[submodule "src/udata-gouvfr"]
+	path = src/udata-gouvfr
+	url = git@github.com:etalab/udata-gouvfr.git

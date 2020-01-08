@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "parcel build -d public/dist src/oembed.js"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "less": "^3.10.3",
+    "parcel": "^1.12.4"
+  }
+}
